@@ -1,1 +1,0 @@
-# kickstarters-tutorial
